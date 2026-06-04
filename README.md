@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3192,100:1BFFFF&amp;height=200&amp;section=header&amp;text=JINWOOK%20JEON&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3192,100:1BFFFF&amp;height=200&amp;section=header&amp;text=JINWOOK%20JUN&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn)
 
 <p align="center">
   <samp>🛡️ Digital Forensics &amp; Backend Developer</samp>
