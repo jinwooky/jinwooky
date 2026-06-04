@@ -1,11 +1,12 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:0F3460&height=200&section=header&text=JINWOOK%20JEON&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Digital%20Forensics%20%26%20Backend%20Developer&descSize=20&descAlignY=68)
 
-# 안녕하세요, 보안과 백엔드를 공부하는 전진욱입니다 👋
-
-디지털 포렌식과 웹/백엔드 개발을 중심으로 공부하고 있습니다.<br>
-BoB 프로젝트와 Java/Spring 기반 프로젝트를 통해 문제 해결 경험을 쌓고 있습니다.
-
-</div>
+<p align="center">
+  <samp>
+    안녕하세요, 보안과 백엔드를 공부하는 전진욱입니다. 🛡️ 디지털 포렌식과 웹/백엔드 개발을 중심으로 공부하고 있습니다.
+    BoB 14기 디지털 포렌식 트랙과 Java/Spring 기반 프로젝트를 통해 문제 해결 경험을 쌓고 있습니다.
+    리버싱·메모리 분석부터 인증 기반 백엔드 설계까지, 보안과 개발을 잇는 엔지니어를 꿈꿉니다. ✨
+  </samp>
+</p>
 
 ---
 
@@ -20,13 +21,12 @@ BoB 프로젝트와 Java/Spring 기반 프로젝트를 통해 문제 해결 경�
 ## 👥 Organizations & 활동
 
 - 🦁 **전북대학교 멋쟁이사자처럼(LIKELION)** 대표 (2026.03.01 ~ 현재)
-- **DCG LAP** 전북대학교 보안 학부 연구생 (2026.03.03 ~ 현재)
-- **전북대학교** 컴퓨터공학부 재학 (2021.03.01 ~ 현재)
+- 🔐 **DCG LAB** 전북대학교 보안 학부 연구생 (2026.03.03 ~ 현재)
+- 🏫 **전북대학교** 컴퓨터공학부 재학 (2021.03.01 ~ 현재)
 - 🎓 **정보보호 영재교육원** 수료 (2019.06 ~ 2020.11)
 - 🗳️ **광주광역시 선거관리위원회** 디지털 포렌식 요원 (2022.01.01 ~ 2022.06.01)
 - ✈️ **대한민국 공군** 정보보호병 복무 (2022.07.11 ~ 2024.04.10)
-- **Best of Best 14th** 디지털 포렌식 트랙 (2025.07.01 ~ 2026.03.01)
-- 
+- 🛡️ **Best of Best 14th** 디지털 포렌식 트랙 (2025.07.01 ~ 2026.03.01)
 
 ## 🛠️ Tech Stack
 
@@ -34,8 +34,18 @@ BoB 프로젝트와 Java/Spring 기반 프로젝트를 통해 문제 해결 경�
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA_/_QueryDSL-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 **Database & OS**
 
@@ -64,23 +74,25 @@ BoB 프로젝트와 Java/Spring 기반 프로젝트를 통해 문제 해결 경�
 - 네트워크관리사 2급 (2020.06.30)
 - 리눅스마스터 2급 (2020.07.30)
 
-## 기타 자격증 (??)
+**기타 자격증**
+
 - 컴퓨터활용능력 1급 (2022.04.22)
 - 워드프로세서 1급 (2017.09.22)
 
 ## 💼 주요 경험
 
-- 랜섬웨어 탐지 및 분석 자동화 프로젝트  | 정보 과학회 일반부 학술대회 투고 (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577594) 
+- 랜섬웨어 탐지 및 분석 자동화 프로젝트 — 한국정보과학회 학술대회 투고 ([논문 보기](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577594))
+- Summunity — JWT·OAuth2 인증 기반 커뮤니티 서비스의 답변(Answer) 기능 백엔드 개발 (CRUD 및 작성자 권한 검증)
 - Java 기반 콘솔 프로젝트 개발
-- Spring Boot 기반 웹 프로젝트 학습 및 구현
 
 ## 📌 Featured Projects
 
-| 프로젝트 | 설명 | 기술 |
+| 프로젝트 | 역할 / 설명 | 기술 |
 | --- | --- | --- |
-| Ransomware Analysis Automation | 랜섬웨어 탐지·분석·보고서 생성을 자동화한 프로젝트 | C++, Python, Ransomware, Security |
-| Convenience Store System | 상품 재고, 프로모션, 멤버십 할인을 처리하는 결제 시스템 | Java |
-| QnA Web Service | Spring Boot 기반 질문/답변 웹 서비스 | Java, Spring Boot |
+| [Ransomware Analysis Automation](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577594) | 랜섬웨어 탐지·분석·보고서 생성을 자동화한 프로젝트 | C++, Python, Security |
+| [Summunity](https://github.com/Sum-munity/Summunity) | Backend — 답변(Answer) CRUD 및 작성자 권한 검증 구현. JWT·OAuth2 기반 20대 연애 고민 커뮤니티 | Java 21, Spring Boot, Spring Security, JWT, JPA, MySQL |
+| [budget](https://github.com/likelion-budget) | Frontend — '4줘 가계부' 예산 관리 서비스 UI 구현 | React, Vite, Tailwind CSS, React Router, Axios, Recharts |
+| [ShowFolio](https://github.com/team4-ShowFolio/showfolio-backend) | Backend — 프로젝트 CRUD 구현. AI 기반 포트폴리오/이력서 진단 커리어 SNS | Spring Boot, JPA/QueryDSL, Spring Security, MySQL, React |
 
 ---
 
@@ -88,10 +100,12 @@ BoB 프로젝트와 Java/Spring 기반 프로젝트를 통해 문제 해결 경�
 
 <div align="center">
 
-![jinwooky's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooky&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+[![jinwooky's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooky&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/jinwooky)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwooky&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwooky&layout=compact&theme=radical&langs_count=8&hide_border=true)](https://github.com/jinwooky)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinwooky&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jinwooky&theme=radical&hide_border=true)](https://github.com/jinwooky)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F3460,100:1A1A2E&height=120&section=footer)
