@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=JINWOOK%20JEON&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Digital%20Forensics%20%26%20Backend%20Developer&descSize=20&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3192,100:1BFFFF&amp;height=200&amp;section=header&amp;text=JINWOOK%20JEON&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Digital%20Forensics%20%26%20Backend%20Developer&amp;descSize=20&amp;descAlignY=68)
 
 <p align="center">
   <samp>
@@ -32,37 +32,37 @@
 
 **Languages &amp; Frameworks**
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA_/_QueryDSL-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&amp;logo=springsecurity&amp;logoColor=white)
+![JPA](https://img.shields.io/badge/JPA_/_QueryDSL-59666C?style=for-the-badge&amp;logo=hibernate&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white)
 
 **Database &amp; OS**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
 
 **Forensics &amp; Security Tools**
 
-![IDA](https://img.shields.io/badge/IDA_Pro-1A1A2E?style=for-the-badge&logo=&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-2E3192?style=for-the-badge&logo=&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-3B5998?style=for-the-badge&logo=&logoColor=white)
-![EnCase](https://img.shields.io/badge/EnCase-005A9C?style=for-the-badge&logo=&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-D32F2F?style=for-the-badge&logo=&logoColor=white)
-![MD-RED](https://img.shields.io/badge/MD--RED-6A1B9A?style=for-the-badge&logo=&logoColor=white)
-![MD-NEXT](https://img.shields.io/badge/MD--NEXT-8E24AA?style=for-the-badge&logo=&logoColor=white)
+![IDA](https://img.shields.io/badge/IDA_Pro-1A1A2E?style=for-the-badge&amp;logo=&amp;logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-2E3192?style=for-the-badge&amp;logo=&amp;logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-3B5998?style=for-the-badge&amp;logo=&amp;logoColor=white)
+![EnCase](https://img.shields.io/badge/EnCase-005A9C?style=for-the-badge&amp;logo=&amp;logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-D32F2F?style=for-the-badge&amp;logo=&amp;logoColor=white)
+![MD-RED](https://img.shields.io/badge/MD--RED-6A1B9A?style=for-the-badge&amp;logo=&amp;logoColor=white)
+![MD-NEXT](https://img.shields.io/badge/MD--NEXT-8E24AA?style=for-the-badge&amp;logo=&amp;logoColor=white)
 
 > 리버싱(IDA), 메모리 분석(Volatility), 디스크/아티팩트 분석(Autopsy, EnCase, FTK Imager), 모바일 포렌식(MD-RED, MD-NEXT)
 
@@ -100,12 +100,12 @@
 
 <div align="center">
 
-[![jinwooky's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooky&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/jinwooky)
+[![jinwooky's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooky&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true)](https://github.com/jinwooky)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwooky&layout=compact&theme=radical&langs_count=8&hide_border=true)](https://github.com/jinwooky)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwooky&amp;layout=compact&amp;theme=radical&amp;langs_count=8&amp;hide_border=true)](https://github.com/jinwooky)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jinwooky&theme=radical&hide_border=true)](https://github.com/jinwooky)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jinwooky&amp;theme=radical&amp;hide_border=true)](https://github.com/jinwooky)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&amp;color=0:1BFFFF,100:2E3192&amp;height=120&amp;section=footer)
