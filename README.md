@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:0F3460&height=200&section=header&text=JINWOOK%20JEON&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Digital%20Forensics%20%26%20Backend%20Developer&descSize=20&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=JINWOOK%20JEON&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Digital%20Forensics%20%26%20Backend%20Developer&descSize=20&descAlignY=68)
 
 <p align="center">
   <samp>
@@ -18,7 +18,7 @@
 - 🤖 Security Automation
 - 🧠 AI Agent
 
-## 👥 Organizations & 활동
+## 👥 Organizations &amp; 활동
 
 - 🦁 **전북대학교 멋쟁이사자처럼(LIKELION)** 대표 (2026.03.01 ~ 현재)
 - 🔐 **DCG LAB** 전북대학교 보안 학부 연구생 (2026.03.03 ~ 현재)
@@ -30,7 +30,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**Languages &amp; Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -47,14 +47,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-**Database & OS**
+**Database &amp; OS**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Forensics & Security Tools**
+**Forensics &amp; Security Tools**
 
 ![IDA](https://img.shields.io/badge/IDA_Pro-1A1A2E?style=for-the-badge&logo=&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-2E3192?style=for-the-badge&logo=&logoColor=white)
@@ -108,4 +108,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F3460,100:1A1A2E&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=120&section=footer)
