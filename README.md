@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3192,100:1BFFFF&amp;height=200&amp;section=header&amp;text=JINWOOK%20JEON&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Digital%20Forensics%20%26%20Backend%20Developer&amp;descSize=20&amp;descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3192,100:1BFFFF&amp;height=200&amp;section=header&amp;text=JINWOOK%20JUN&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn)
+
+<p align="center">
+  <samp>🛡️ Digital Forensics &amp; Backend Developer</samp>
+</p>
 
 <p align="center">
   <samp>
@@ -99,10 +103,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![jinwooky's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooky&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true)](https://github.com/jinwooky)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwooky&amp;layout=compact&amp;theme=radical&amp;langs_count=8&amp;hide_border=true)](https://github.com/jinwooky)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jinwooky&amp;theme=radical&amp;hide_border=true)](https://github.com/jinwooky)
 
