@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3192,100:1BFFFF&amp;height=200&amp;section=header&amp;text=JINWOOK%20JUN&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3192,100:1BFFFF&amp;height=200&amp;section=header&amp;text=JINWOOK%20JEON&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn)
 
 <p align="center">
   <samp>🛡️ Digital Forensics &amp; Backend Developer</samp>
@@ -27,10 +27,10 @@
 - 🦁 **전북대학교 멋쟁이사자처럼(LIKELION)** 대표 (2026.03.01 ~ 현재)
 - 🔐 **DCG LAB** 전북대학교 보안 학부 연구생 (2026.03.03 ~ 현재)
 - 🏫 **전북대학교** 컴퓨터공학부 재학 (2021.03.01 ~ 현재)
-- 🛡️ **Best of Best 14th** 디지털 포렌식 트랙 (2025.07.01 ~ 2026.03.01)
-- ✈️ **대한민국 공군** 정보보호병 복무 (2022.07.11 ~ 2024.04.10)
-- 🗳️ **광주광역시 선거관리위원회** 디지털 포렌식 요원 (2022.01.01 ~ 2022.06.01)
 - 🎓 **정보보호 영재교육원** 수료 (2019.06 ~ 2020.11)
+- 🗳️ **광주광역시 선거관리위원회** 디지털 포렌식 요원 (2022.01.01 ~ 2022.06.01)
+- ✈️ **대한민국 공군** 정보보호병 복무 (2022.07.11 ~ 2024.04.10)
+- 🛡️ **Best of Best 14th** 디지털 포렌식 트랙 (2025.07.01 ~ 2026.03.01)
 
 ## 🛠️ Tech Stack
 
@@ -58,6 +58,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
 
+**Cloud &amp; Infra**
+
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&amp;logo=apache&amp;logoColor=white)
+
 **Forensics &amp; Security Tools**
 
 ![IDA](https://img.shields.io/badge/IDA_Pro-1A1A2E?style=for-the-badge&amp;logo=&amp;logoColor=white)
@@ -74,9 +80,9 @@
 
 - AWS Certified AI Practitioner (2026.03.15)
 - 디지털포렌식전문가 2급 (2021.12.10)
+- 인터넷보안전문가 2급 (2019.10.09)
 - 네트워크관리사 2급 (2020.06.30)
 - 리눅스마스터 2급 (2020.07.30)
-- 인터넷보안전문가 2급 (2019.10.09)
 
 **기타 자격증**
 
@@ -98,7 +104,7 @@
 
 **개인 활동**
 
-- **기술 블로그 운영** — 디지털 포렌식 17회 기출 문제 복원 및 보안 학습 기록 ([eagleagle.kr](https://eagleagle.kr/))
+- **기술 블로그 "Security LAB Zeusec" 운영** — 보안 실습·이론·프로그래밍·트러블슈팅 학습 기록 정리. WordPress 기반으로 Oracle Cloud(OCI)에 직접 배포·운영 ([zeusec.kr](https://zeusec.kr/))
 
 ## 📌 Featured Projects
 
